@@ -1,4 +1,4 @@
-## Kirana - Backend
+## Kirana - Backend -JENISH BUDHATHOKI
 
 ## API Reference
 
@@ -151,4 +151,3 @@ To run this project, you will need to add the following environment variables to
 
 
 
-- [@Jenish](https://github.com/Jemnish)
